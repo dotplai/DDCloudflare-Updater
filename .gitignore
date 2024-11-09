@@ -1,0 +1,5 @@
+config.json
+config.ini
+__pycache__/
+**/__pycache__/
+/logs/
